@@ -1,0 +1,5 @@
+13:46:57.541 [AsyncHttpClient-1-2] 64   evel 64ogger - -Dio.netty.buffer.checkBounds: true
+13:46:57.543 [AsyncHttpClient-1-2] 196  evel 196ogger - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@75b6b832
+13:46:57.559 [AsyncHttpClient-1-2] 85   evel 85ogger - -Dio.netty.recycler.maxCapacityPerThread: 4096
+13:46:57.560 [AsyncHttpClient-1-2] 86   evel 86ogger - -Dio.netty.recycler.ratio: 8
+13:46:57.560 [AsyncHttpClient-1-2] 87   evel 87ogger - -Dio.netty.recycler.chunkSize: 32
