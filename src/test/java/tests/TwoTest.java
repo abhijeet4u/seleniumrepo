@@ -16,6 +16,8 @@ public class TwoTest extends Base_Class{
 	@Test
 	public void testTwo() throws IOException, InterruptedException {
 		
+		System.out.println("this code update by the abhijeet ghodke");
+		
 		driver = intializeDriver();
 		driver.get(pro.getProperty("url"));
 		Thread.sleep(3000);
